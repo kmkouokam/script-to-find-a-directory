@@ -15,7 +15,7 @@ then
 else
 echo "$DIR does not exit"
 fi
-
+#mkdir $DIR
 #FILE=/etc/docker
 #if [ -d "$FILE" ]; then
  #   echo "$FILE is a directory."
